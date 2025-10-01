@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\marin\\Documents\\utn\\PR3\\Github\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CFF490D3-2FCC-4855-8844-6C80ED9DAFF3}|presentacion\\presentacion.csproj|c:\\users\\marin\\documents\\utn\\pr3\\github\\tp-webforms-equipo-10b\\webformsequipo10b\\presentacion\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{CFF490D3-2FCC-4855-8844-6C80ED9DAFF3}|presentacion\\presentacion.csproj|solutionrelative:presentacion\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{CFF490D3-2FCC-4855-8844-6C80ED9DAFF3}|presentacion\\presentacion.csproj|c:\\users\\marin\\documents\\utn\\pr3\\github\\tp-webforms-equipo-10b\\webformsequipo10b\\presentacion\\listadodearticulos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CFF490D3-2FCC-4855-8844-6C80ED9DAFF3}|presentacion\\presentacion.csproj|solutionrelative:presentacion\\listadodearticulos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CFF490D3-2FCC-4855-8844-6C80ED9DAFF3}|presentacion\\presentacion.csproj|C:\\Users\\marin\\Documents\\utn\\PR3\\Github\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\presentacion\\mimaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
       "RelativeMoniker": "D:0:0:{CFF490D3-2FCC-4855-8844-6C80ED9DAFF3}|presentacion\\presentacion.csproj|solutionrelative:presentacion\\mimaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF490D3-2FCC-4855-8844-6C80ED9DAFF3}|presentacion\\presentacion.csproj|c:\\users\\marin\\documents\\utn\\pr3\\github\\tp-webforms-equipo-10b\\webformsequipo10b\\presentacion\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CFF490D3-2FCC-4855-8844-6C80ED9DAFF3}|presentacion\\presentacion.csproj|solutionrelative:presentacion\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{73AA677C-5FF5-4CFF-9B4B-27B75E34DB6C}|..\\..\\FormsProject\\winformProjectNegocio\\dominio\\dominio.csproj|C:\\Users\\marin\\Documents\\utn\\PR3\\Github\\FormsProject\\winformProjectNegocio\\dominio\\Imagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -26,6 +30,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ListadoDeArticulos.aspx",
+              "DocumentMoniker": "C:\\Users\\marin\\Documents\\utn\\PR3\\Github\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\presentacion\\ListadoDeArticulos.aspx",
+              "RelativeDocumentMoniker": "presentacion\\ListadoDeArticulos.aspx",
+              "ToolTip": "C:\\Users\\marin\\Documents\\utn\\PR3\\Github\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\presentacion\\ListadoDeArticulos.aspx",
+              "RelativeToolTip": "presentacion\\ListadoDeArticulos.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-01T23:19:28.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Default.aspx",
               "DocumentMoniker": "C:\\Users\\marin\\Documents\\utn\\PR3\\Github\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\presentacion\\Default.aspx",
               "RelativeDocumentMoniker": "presentacion\\Default.aspx",
@@ -51,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Imagen.cs",
               "DocumentMoniker": "C:\\Users\\marin\\Documents\\utn\\PR3\\Github\\FormsProject\\winformProjectNegocio\\dominio\\Imagen.cs",
               "RelativeDocumentMoniker": "..\\..\\FormsProject\\winformProjectNegocio\\dominio\\Imagen.cs",
