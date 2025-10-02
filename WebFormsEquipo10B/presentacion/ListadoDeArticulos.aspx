@@ -3,9 +3,9 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="Default" runat="server">
     <section class="container my-4" aria-labelledby="titulo-catalogo">
-        <h1 class="h3 text-center text-center-white mb-4">Elegi tu premio</h1>
+        <h1 id="titulo-catalogo" class="h3 text-center text-white mb-4">Elegi tu premio</h1>
   
-    <asp:Repeater ID="rptArticulos" runat="server" OnItemCommand="rptArticulos_ItemCommand">
+    <asp:Repeater ID="rptArticulos" runat="server">
         <HeaderTemplate>
             <ul class="row list-unstyled g-4">
         </HeaderTemplate>
@@ -17,9 +17,9 @@
                         <img class="card-img-top" src='<%# Eval("ImagenUrl") %>'
                             alt='<%#Eval("Nombre")%>' itemprop="image" />
                     </figure>
-                    <div class="card-boby d-flex flex-colum">
+                    <div class="card-body d-flex flex-colum">
                         <h2 class="h5 card-title" itemprop="name"><%#Eval("Nombre")%></h2>
-                        <p class="card-text text-muted" itemprop="description"><%#Eval("Descripcion")%></p>
+                        <p class="card-text text-muted mb-3" itemprop="description"><%#Eval("Descripcion")%></p>
                         <asp:Button ID="btnElegir" runat="server" Text="Eligo este"
                          CssClass="btn btn-primary w-100 mt-auto"
                             CommandName="Elegir"
