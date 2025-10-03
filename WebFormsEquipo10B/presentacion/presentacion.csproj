@@ -85,6 +85,7 @@
     <Content Include="Content\bootstrap.rtl.min.css" />
     <Content Include="Default.aspx" />
     <Content Include="Global.asax" />
+    <Content Include="ListadoDeArticulos.aspx" />
     <Content Include="Script\bootstrap.bundle.js" />
     <Content Include="Script\bootstrap.bundle.min.js" />
     <Content Include="Script\bootstrap.esm.js" />
@@ -103,6 +104,13 @@
     </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="ListadoDeArticulos.aspx.cs">
+      <DependentUpon>ListadoDeArticulos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ListadoDeArticulos.aspx.designer.cs">
+      <DependentUpon>ListadoDeArticulos.aspx</DependentUpon>
     </Compile>
     <Compile Include="MiMaster.Master.cs">
       <DependentUpon>MiMaster.Master</DependentUpon>
@@ -147,6 +155,12 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\dominio\dominio.csproj">
+      <Project>{c16f4e19-8f0e-4cee-8c1d-2d7569b1f869}</Project>
+      <Name>dominio</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

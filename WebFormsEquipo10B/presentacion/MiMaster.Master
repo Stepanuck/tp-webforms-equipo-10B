@@ -31,7 +31,9 @@
                 &copy; 2024 - Mi Sitio Web
             </div>
         </footer>
-       <script src="~/Script/bootstrap.bundle.min.js"></script>
+        
+  <script src="/Script/bootstrap.bundle.min.js"></script>
+ 
     </form>
 </body>
 </html>
