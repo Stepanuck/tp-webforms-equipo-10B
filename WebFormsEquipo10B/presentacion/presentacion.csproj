@@ -157,6 +157,10 @@
     <Folder Include="App_Data\" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\AccesoDatos\AccesoDatos.csproj">
+      <Project>{bfaf84c4-8151-417a-83f7-10f6257a3284}</Project>
+      <Name>AccesoDatos</Name>
+    </ProjectReference>
     <ProjectReference Include="..\dominio\dominio.csproj">
       <Project>{c16f4e19-8f0e-4cee-8c1d-2d7569b1f869}</Project>
       <Name>dominio</Name>
