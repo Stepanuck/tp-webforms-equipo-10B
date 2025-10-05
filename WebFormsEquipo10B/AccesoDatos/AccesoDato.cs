@@ -17,7 +17,7 @@ namespace AccesoDatos
         public AccesoDatosManager()
         {
             // CONEXION FRANCISCO - ¡Actualizada!
-            conexion = new SqlConnection("server=.; database=CATALOGO_P3_DB; integrated security=true;");
+            conexion = new SqlConnection("server=.; database=PROMOS_DB; integrated security=true;");
             comando = new SqlCommand();
         }
 
@@ -77,7 +77,7 @@ namespace AccesoDatos
                 conexion.Close();
                 return true;
             }
-            catch (Exception ex)
+            catch (Exception)
             {
                 return false;
             }
