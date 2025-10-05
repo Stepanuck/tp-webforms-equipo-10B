@@ -1,5 +1,5 @@
 ﻿<%@ Page Title="Formulario de contacto" Language="C#" MasterPageFile="~/MiMaster.Master" AutoEventWireup="true"
-    CodeBehind="Formulario.aspx.cs" Inherits="presentacion.Formulario" %>
+    CodeBehind="Formulario.aspx.cs" Inherits="presentacion.Formulario" ClientIDMode="Static" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
     <meta name="description" content="Formulario de contacto para completar datos personales en el concurso web." />
@@ -24,7 +24,7 @@
                         MaxLength="8" placeholder="9988777"
                         autocomplete="off" inputmode="numeric">
                     </asp:TextBox>
-                    <small id="hint dni" class="text-danger d-none">Solo numeros, 7-8 digitos.</small>
+                    <small id="hint-dni" class="text-danger d-none">Solo numeros, 7-8 digitos.</small>
                 </div>
 
                 <div class="row g-3">
@@ -99,10 +99,13 @@
                     
                     <div class="col-12">
                         <asp:Button ID="btnEnviar" runat="server" Text="Enviar" CssClass="btn btn-primary"
-                            OnClientClick="return validarFormulario();"
+                            UseSubmitBehavior="true"
+                            OnClientClick="return validarFormulario(event);"
                             OnClick="btnEnviar_Click" />
                     </div>
               </div>
         </fieldset>
     </section>
+
+     <script src="/Script/Script.js"></script>
 </asp:Content>
