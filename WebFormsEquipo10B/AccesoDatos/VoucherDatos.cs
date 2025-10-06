@@ -17,7 +17,11 @@ namespace AccesoDatos
             try
             {
 
-                string consulta = "SELECT CodigoVoucher, IdCliente, FechaCanje, IdArticulo FROM VOUCHERS WHERE CodigoVoucher = @codigo";
+                string consulta = @"
+                SELECT TOP 1 CodigoVoucher, IdCliente, FechaCanje, IdArticulo
+                FROM Vouchers
+                WHERE CodigoVoucher = @codigo
+                ";//Ajustamos la consulta para que traiga solo el primer resultado que coincida con el codigo
                 manager.setearConsulta(consulta);
                 manager.setearParametro("@codigo", codigo);
                 manager.ejecutarLectura();

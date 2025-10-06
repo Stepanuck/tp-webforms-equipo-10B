@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\marin\\Documents\\utn\\PR3\\Github\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BFAF84C4-8151-417A-83F7-10F6257A3284}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\marin\\documents\\utn\\pr3\\github\\tp-webforms-equipo-10b\\webformsequipo10b\\accesodatos\\voucherdatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAF84C4-8151-417A-83F7-10F6257A3284}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\voucherdatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF490D3-2FCC-4855-8844-6C80ED9DAFF3}|presentacion\\presentacion.csproj|c:\\users\\marin\\documents\\utn\\pr3\\github\\tp-webforms-equipo-10b\\webformsequipo10b\\presentacion\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFF490D3-2FCC-4855-8844-6C80ED9DAFF3}|presentacion\\presentacion.csproj|solutionrelative:presentacion\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8773FF0-6A9A-42F9-B26E-1193C0399CE3}|Negocio\\Negocio.csproj|C:\\Users\\marin\\Documents\\utn\\PR3\\Github\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\negocio\\vouchernegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8773FF0-6A9A-42F9-B26E-1193C0399CE3}|Negocio\\Negocio.csproj|solutionrelative:negocio\\vouchernegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CFF490D3-2FCC-4855-8844-6C80ED9DAFF3}|presentacion\\presentacion.csproj|c:\\users\\marin\\documents\\utn\\pr3\\github\\tp-webforms-equipo-10b\\webformsequipo10b\\presentacion\\listadodearticulos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CFF490D3-2FCC-4855-8844-6C80ED9DAFF3}|presentacion\\presentacion.csproj|solutionrelative:presentacion\\listadodearticulos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,11 +39,37 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "VoucherDatos.cs",
+              "DocumentMoniker": "C:\\Users\\marin\\Documents\\utn\\PR3\\Github\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\AccesoDatos\\VoucherDatos.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\VoucherDatos.cs",
+              "ToolTip": "C:\\Users\\marin\\Documents\\utn\\PR3\\Github\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\AccesoDatos\\VoucherDatos.cs",
+              "RelativeToolTip": "AccesoDatos\\VoucherDatos.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T03:10:36.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\marin\\Documents\\utn\\PR3\\Github\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\presentacion\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "presentacion\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\marin\\Documents\\utn\\PR3\\Github\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\presentacion\\Default.aspx.cs",
+              "RelativeToolTip": "presentacion\\Default.aspx.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAiwDgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T03:05:37.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ListadoDeArticulos.aspx.cs",
               "DocumentMoniker": "C:\\Users\\marin\\Documents\\utn\\PR3\\Github\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\presentacion\\ListadoDeArticulos.aspx.cs",
               "RelativeDocumentMoniker": "presentacion\\ListadoDeArticulos.aspx.cs",
-              "ToolTip": "C:\\Users\\marin\\Documents\\utn\\PR3\\Github\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\presentacion\\ListadoDeArticulos.aspx.cs*",
-              "RelativeToolTip": "presentacion\\ListadoDeArticulos.aspx.cs*",
+              "ToolTip": "C:\\Users\\marin\\Documents\\utn\\PR3\\Github\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\presentacion\\ListadoDeArticulos.aspx.cs",
+              "RelativeToolTip": "presentacion\\ListadoDeArticulos.aspx.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-06T02:57:33.492Z",
@@ -39,7 +77,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "ListadoDeArticulos.aspx",
               "DocumentMoniker": "C:\\Users\\marin\\Documents\\utn\\PR3\\Github\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\presentacion\\ListadoDeArticulos.aspx",
               "RelativeDocumentMoniker": "presentacion\\ListadoDeArticulos.aspx",
@@ -48,6 +86,19 @@
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2025-10-06T02:55:48.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VoucherNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\marin\\Documents\\utn\\PR3\\Github\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\Negocio\\VoucherNegocio.cs",
+              "RelativeDocumentMoniker": "Negocio\\VoucherNegocio.cs",
+              "ToolTip": "C:\\Users\\marin\\Documents\\utn\\PR3\\Github\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\Negocio\\VoucherNegocio.cs",
+              "RelativeToolTip": "Negocio\\VoucherNegocio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T02:28:15.337Z",
               "EditorCaption": ""
             }
           ]
