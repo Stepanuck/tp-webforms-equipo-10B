@@ -52,5 +52,30 @@ namespace AccesoDatos
                 manager.cerrarConexion();
             }
         }
+
+        public void canjearVoucher(string codigo, int idCliente, int idArticulo)
+        {
+            AccesoDatosManager manager = new AccesoDatosManager();
+            try
+            {
+                string consulta = "UPDATE Vouchers SET IdCliente = @idCliente, IdArticulo = @idArticulo, FechaCanje = GETDATE() WHERE CodigoVoucher = @codigo";
+                manager.setearConsulta(consulta);
+
+               
+                manager.setearParametro("@idCliente", idCliente);
+                manager.setearParametro("@idArticulo", idArticulo);
+                manager.setearParametro("@codigo", codigo);
+
+                manager.ejecutarAccion();
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+            finally
+            {
+                manager.cerrarConexion();
+            }
+        }
     }
 }
