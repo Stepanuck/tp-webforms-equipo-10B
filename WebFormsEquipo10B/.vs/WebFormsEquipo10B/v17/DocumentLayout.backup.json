@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\TP4\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BFAF84C4-8151-417A-83F7-10F6257A3284}|AccesoDatos\\AccesoDatos.csproj|c:\\tp4\\tp-webforms-equipo-10b\\webformsequipo10b\\accesodatos\\clientedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAF84C4-8151-417A-83F7-10F6257A3284}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\clientedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BFAF84C4-8151-417A-83F7-10F6257A3284}|AccesoDatos\\AccesoDatos.csproj|C:\\TP4\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\accesodatos\\accesodato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BFAF84C4-8151-417A-83F7-10F6257A3284}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\accesodato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -42,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,7 +58,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "ClienteDatos.cs",
+              "DocumentMoniker": "C:\\TP4\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\AccesoDatos\\ClienteDatos.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\ClienteDatos.cs",
+              "ToolTip": "C:\\TP4\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\AccesoDatos\\ClienteDatos.cs",
+              "RelativeToolTip": "AccesoDatos\\ClienteDatos.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAAC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T23:49:27.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "VoucherDatos.cs",
               "DocumentMoniker": "C:\\TP4\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\AccesoDatos\\VoucherDatos.cs",
               "RelativeDocumentMoniker": "AccesoDatos\\VoucherDatos.cs",
@@ -67,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ArticuloDatos.cs",
               "DocumentMoniker": "C:\\TP4\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\AccesoDatos\\ArticuloDatos.cs",
               "RelativeDocumentMoniker": "AccesoDatos\\ArticuloDatos.cs",
@@ -80,7 +97,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
+              "Title": "AccesoDato.cs",
+              "DocumentMoniker": "C:\\TP4\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\AccesoDatos\\AccesoDato.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\AccesoDato.cs",
+              "ToolTip": "C:\\TP4\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\AccesoDatos\\AccesoDato.cs",
+              "RelativeToolTip": "AccesoDatos\\AccesoDato.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAswFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T00:03:00.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Script.js",
               "DocumentMoniker": "C:\\TP4\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\presentacion\\Script\\Script.js",
               "RelativeDocumentMoniker": "presentacion\\Script\\Script.js",
@@ -92,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Formulario.aspx.cs",
               "DocumentMoniker": "C:\\TP4\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\presentacion\\Formulario.aspx.cs",
               "RelativeDocumentMoniker": "presentacion\\Formulario.aspx.cs",
@@ -104,7 +134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Formulario.aspx",
               "DocumentMoniker": "C:\\TP4\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\presentacion\\Formulario.aspx",
               "RelativeDocumentMoniker": "presentacion\\Formulario.aspx",
@@ -117,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "MiMaster.Master.cs",
               "DocumentMoniker": "C:\\TP4\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\presentacion\\MiMaster.Master.cs",
               "RelativeDocumentMoniker": "presentacion\\MiMaster.Master.cs",
@@ -129,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Default.aspx.cs",
               "DocumentMoniker": "C:\\TP4\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\presentacion\\Default.aspx.cs",
               "RelativeDocumentMoniker": "presentacion\\Default.aspx.cs",
@@ -138,19 +168,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-05T00:12:02.024Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AccesoDato.cs",
-              "DocumentMoniker": "C:\\TP4\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\AccesoDatos\\AccesoDato.cs",
-              "RelativeDocumentMoniker": "AccesoDatos\\AccesoDato.cs",
-              "ToolTip": "C:\\TP4\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\AccesoDatos\\AccesoDato.cs",
-              "RelativeToolTip": "AccesoDatos\\AccesoDato.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAswFcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T00:03:00.676Z",
-              "EditorCaption": ""
             }
           ]
         }
