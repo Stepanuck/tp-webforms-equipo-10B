@@ -16,20 +16,21 @@ namespace presentacion
 
         protected void btnEnviar_Click(object sender, EventArgs e)
         {
-            var voucherEnSesion = Session["voucher"] as Voucher;
+            var voucherEnSesion = Session["Voucher"] as Voucher;
 
             if (voucherEnSesion == null)
             {
                 Response.Redirect("~/Default.aspx");
                 return; //Si no tenemos el voucher en sesion, redirigimos a la pagina principal
             }
-            if (Session["IdArticulo"] == null)
+           
+            int idArticulo = voucherEnSesion.IdArticulo;
+            if(idArticulo <= 0)
             {
                 Response.Redirect("~/ListadoDeArticulos.aspx");
-                return; //Si no tenemos el IdArticulo en sesion, redirigimos a la pagina de listado de articulos
+                return; //Si no tenemos el id del articulo en el voucher, redirigimos a la pagina principal
             }
-            ;
-            int idArticulo = (int)Session["IdArticulo"];
+
             Cliente nuevoCliente = new Cliente();
             try
             {
