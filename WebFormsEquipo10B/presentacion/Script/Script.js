@@ -62,3 +62,19 @@ function validarFormulario(evt) {
         }
         return true;
 }
+
+
+function showToast(id) {
+    const toastEl = document.getElementById(id);
+    if (toastEl) {
+        const toast = new bootstrap.Toast(toastEl);
+        toast.show();
+    }
+}
+
+function salir(url = '/Default.aspx') {
+    console.log(`Redireccionando a: " + url en ${delay / 1000} segundos...`);
+    setTimeout(() => {
+        window.location.href = url;
+    }, delay);
+}

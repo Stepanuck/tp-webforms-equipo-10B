@@ -21,7 +21,7 @@ namespace AccesoDatos
                 SELECT TOP 1 CodigoVoucher, IdCliente, FechaCanje, IdArticulo
                 FROM Vouchers
                 WHERE CodigoVoucher = @codigo
-                ";//Ajustamos la consulta para que traiga solo el primer resultado que coincida con el codigo
+                AND IdCliente is NULL AND FechaCanje is Null";// Solo buscamos vouchers no canjeados 
                 manager.setearConsulta(consulta);
                 manager.setearParametro("@codigo", codigo);
                 manager.ejecutarLectura();
@@ -62,14 +62,18 @@ namespace AccesoDatos
             AccesoDatosManager manager = new AccesoDatosManager();
             try
             {
-                string consulta = "UPDATE Vouchers SET IdCliente = @idCliente, IdArticulo = @idArticulo, FechaCanje = GETDATE() WHERE CodigoVoucher = @codigo";
+                string consulta = @"
+                UPDATE Vouchers
+                   SET IdCliente = @idCliente,
+                       IdArticulo = @idArticulo,
+                       FechaCanje = GETDATE()
+                 WHERE CodigoVoucher = @codigo
+                   AND IdCliente IS NULL
+                   AND FechaCanje IS NULL"; // Nos aseguramos de que el voucher no haya sido canjeado previamente
                 manager.setearConsulta(consulta);
-
-               
                 manager.setearParametro("@idCliente", idCliente);
                 manager.setearParametro("@idArticulo", idArticulo);
                 manager.setearParametro("@codigo", codigo);
-
                 manager.ejecutarAccion();
             }
             catch (Exception ex)

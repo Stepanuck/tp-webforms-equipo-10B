@@ -12,7 +12,7 @@
             <p class="text-muted">Completa el formulario para obtener tu premio.</p>
         </header>
 
-        <fieldset class="border-0 p-0" itemtype="https://schema.or/Person" itemscope>
+        <fieldset class="border-0 p-0" itemtype="https://schema.org/Person" itemscope>
             <legend class="visually-hidden">Datos Personales</legend>
 
             <!--DNI--> 
@@ -105,6 +105,36 @@
                     </div>
               </div>
         </fieldset>
+
+
+        <!-- Toast de exito -->
+        <aside id="toastSuces"
+            class="toast text-bg-sucess position-fixed top-50 start-50 translate-middle"
+            role="status" aria-live="polite" aria-atomic="true" data-bs-delay="4000">
+            <div class="d-flex align-items-center">
+                <p class="toast-body mb-0 flex-grow-1">Felicidades tu voucher fue registrado correctamente</p>
+                <button type="button"
+                    class="btn-close btn-close-white ms-3"
+                    data-bs-dismiss="toast" aria-label="Cerrar"></button>
+                </div>
+        </aside>
+
+        <!-- Toast de error -->
+         <aside id="toastError"
+     class="toast text-bg-sucess position-fixed top-50 start-50 translate-middle"
+     role="status" aria-live="polite" aria-atomic="true" data-bs-delay="4000">
+     <div class="d-flex align-items-center">
+         <p class="toast-body mb-0 flex-grow-1">Error al validar el voucher, intente nuevamente</p>
+         <button type="button"
+             class="btn-close btn-close-white ms-3"
+             data-bs-dismiss="toast" aria-label="Cerrar"></button>
+         </div>
+ </aside>
+
+
+
+
+
     </section>
 
      <script src="/Script/Script.js"></script>
