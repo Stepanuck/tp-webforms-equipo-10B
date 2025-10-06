@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\TP4\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D8773FF0-6A9A-42F9-B26E-1193C0399CE3}|Negocio\\Negocio.csproj|c:\\tp4\\tp-webforms-equipo-10b\\webformsequipo10b\\negocio\\clientenegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8773FF0-6A9A-42F9-B26E-1193C0399CE3}|Negocio\\Negocio.csproj|solutionrelative:negocio\\clientenegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D8773FF0-6A9A-42F9-B26E-1193C0399CE3}|Negocio\\Negocio.csproj|c:\\tp4\\tp-webforms-equipo-10b\\webformsequipo10b\\negocio\\vouchernegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D8773FF0-6A9A-42F9-B26E-1193C0399CE3}|Negocio\\Negocio.csproj|solutionrelative:negocio\\vouchernegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -54,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,7 +70,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "ClienteNegocio.cs",
+              "DocumentMoniker": "C:\\TP4\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\Negocio\\ClienteNegocio.cs",
+              "RelativeDocumentMoniker": "Negocio\\ClienteNegocio.cs",
+              "ToolTip": "C:\\TP4\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\Negocio\\ClienteNegocio.cs",
+              "RelativeToolTip": "Negocio\\ClienteNegocio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T02:35:56.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ArticuloNegocio.cs",
               "DocumentMoniker": "C:\\TP4\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\Negocio\\ArticuloNegocio.cs",
               "RelativeDocumentMoniker": "Negocio\\ArticuloNegocio.cs",
@@ -79,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "VoucherNegocio.cs",
               "DocumentMoniker": "C:\\TP4\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\Negocio\\VoucherNegocio.cs",
               "RelativeDocumentMoniker": "Negocio\\VoucherNegocio.cs",
@@ -92,7 +109,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ClienteDatos.cs",
               "DocumentMoniker": "C:\\TP4\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\AccesoDatos\\ClienteDatos.cs",
               "RelativeDocumentMoniker": "AccesoDatos\\ClienteDatos.cs",
@@ -105,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "VoucherDatos.cs",
               "DocumentMoniker": "C:\\TP4\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\AccesoDatos\\VoucherDatos.cs",
               "RelativeDocumentMoniker": "AccesoDatos\\VoucherDatos.cs",
@@ -118,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ArticuloDatos.cs",
               "DocumentMoniker": "C:\\TP4\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\AccesoDatos\\ArticuloDatos.cs",
               "RelativeDocumentMoniker": "AccesoDatos\\ArticuloDatos.cs",
@@ -131,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "AccesoDato.cs",
               "DocumentMoniker": "C:\\TP4\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\AccesoDatos\\AccesoDato.cs",
               "RelativeDocumentMoniker": "AccesoDatos\\AccesoDato.cs",
@@ -144,7 +161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Script.js",
               "DocumentMoniker": "C:\\TP4\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\presentacion\\Script\\Script.js",
               "RelativeDocumentMoniker": "presentacion\\Script\\Script.js",
@@ -156,7 +173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Formulario.aspx.cs",
               "DocumentMoniker": "C:\\TP4\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\presentacion\\Formulario.aspx.cs",
               "RelativeDocumentMoniker": "presentacion\\Formulario.aspx.cs",
@@ -168,7 +185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Formulario.aspx",
               "DocumentMoniker": "C:\\TP4\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\presentacion\\Formulario.aspx",
               "RelativeDocumentMoniker": "presentacion\\Formulario.aspx",
@@ -181,7 +198,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "MiMaster.Master.cs",
               "DocumentMoniker": "C:\\TP4\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\presentacion\\MiMaster.Master.cs",
               "RelativeDocumentMoniker": "presentacion\\MiMaster.Master.cs",
@@ -193,7 +210,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Default.aspx.cs",
               "DocumentMoniker": "C:\\TP4\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\presentacion\\Default.aspx.cs",
               "RelativeDocumentMoniker": "presentacion\\Default.aspx.cs",

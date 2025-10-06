@@ -29,5 +29,19 @@ namespace negocio
                 throw ex;
             }
         }
+        
+        public void canjear(string codigo, int idCliente, int idArticulo)
+        {
+            VoucherDatos datos = new VoucherDatos();
+            try
+            {
+                datos.canjearVoucher(codigo, idCliente, idArticulo);
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
+
     }
 }
