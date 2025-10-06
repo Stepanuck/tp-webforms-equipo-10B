@@ -1,58 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\TP4\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\",
+  "WorkspaceRootPath": "C:\\Users\\marin\\Documents\\utn\\PR3\\Github\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D8773FF0-6A9A-42F9-B26E-1193C0399CE3}|Negocio\\Negocio.csproj|c:\\tp4\\tp-webforms-equipo-10b\\webformsequipo10b\\negocio\\promonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8773FF0-6A9A-42F9-B26E-1193C0399CE3}|Negocio\\Negocio.csproj|solutionrelative:negocio\\promonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CFF490D3-2FCC-4855-8844-6C80ED9DAFF3}|presentacion\\presentacion.csproj|c:\\users\\marin\\documents\\utn\\pr3\\github\\tp-webforms-equipo-10b\\webformsequipo10b\\presentacion\\listadodearticulos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFF490D3-2FCC-4855-8844-6C80ED9DAFF3}|presentacion\\presentacion.csproj|solutionrelative:presentacion\\listadodearticulos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8773FF0-6A9A-42F9-B26E-1193C0399CE3}|Negocio\\Negocio.csproj|c:\\tp4\\tp-webforms-equipo-10b\\webformsequipo10b\\negocio\\vouchernegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8773FF0-6A9A-42F9-B26E-1193C0399CE3}|Negocio\\Negocio.csproj|solutionrelative:negocio\\vouchernegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8773FF0-6A9A-42F9-B26E-1193C0399CE3}|Negocio\\Negocio.csproj|c:\\tp4\\tp-webforms-equipo-10b\\webformsequipo10b\\negocio\\clientenegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8773FF0-6A9A-42F9-B26E-1193C0399CE3}|Negocio\\Negocio.csproj|solutionrelative:negocio\\clientenegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8773FF0-6A9A-42F9-B26E-1193C0399CE3}|Negocio\\Negocio.csproj|c:\\tp4\\tp-webforms-equipo-10b\\webformsequipo10b\\negocio\\articulonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8773FF0-6A9A-42F9-B26E-1193C0399CE3}|Negocio\\Negocio.csproj|solutionrelative:negocio\\articulonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BFAF84C4-8151-417A-83F7-10F6257A3284}|AccesoDatos\\AccesoDatos.csproj|c:\\tp4\\tp-webforms-equipo-10b\\webformsequipo10b\\accesodatos\\articulodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFAF84C4-8151-417A-83F7-10F6257A3284}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\articulodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BFAF84C4-8151-417A-83F7-10F6257A3284}|AccesoDatos\\AccesoDatos.csproj|c:\\tp4\\tp-webforms-equipo-10b\\webformsequipo10b\\accesodatos\\voucherdatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFAF84C4-8151-417A-83F7-10F6257A3284}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\voucherdatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BFAF84C4-8151-417A-83F7-10F6257A3284}|AccesoDatos\\AccesoDatos.csproj|c:\\tp4\\tp-webforms-equipo-10b\\webformsequipo10b\\accesodatos\\clientedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFAF84C4-8151-417A-83F7-10F6257A3284}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\clientedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BFAF84C4-8151-417A-83F7-10F6257A3284}|AccesoDatos\\AccesoDatos.csproj|C:\\TP4\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\accesodatos\\accesodato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFAF84C4-8151-417A-83F7-10F6257A3284}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\accesodato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CFF490D3-2FCC-4855-8844-6C80ED9DAFF3}|presentacion\\presentacion.csproj|c:\\tp4\\tp-webforms-equipo-10b\\webformsequipo10b\\presentacion\\formulario.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{CFF490D3-2FCC-4855-8844-6C80ED9DAFF3}|presentacion\\presentacion.csproj|solutionrelative:presentacion\\formulario.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CFF490D3-2FCC-4855-8844-6C80ED9DAFF3}|presentacion\\presentacion.csproj|C:\\TP4\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\presentacion\\script\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{CFF490D3-2FCC-4855-8844-6C80ED9DAFF3}|presentacion\\presentacion.csproj|solutionrelative:presentacion\\script\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CFF490D3-2FCC-4855-8844-6C80ED9DAFF3}|presentacion\\presentacion.csproj|C:\\TP4\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\presentacion\\formulario.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFF490D3-2FCC-4855-8844-6C80ED9DAFF3}|presentacion\\presentacion.csproj|solutionrelative:presentacion\\formulario.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CFF490D3-2FCC-4855-8844-6C80ED9DAFF3}|presentacion\\presentacion.csproj|C:\\TP4\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\presentacion\\mimaster.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFF490D3-2FCC-4855-8844-6C80ED9DAFF3}|presentacion\\presentacion.csproj|solutionrelative:presentacion\\mimaster.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CFF490D3-2FCC-4855-8844-6C80ED9DAFF3}|presentacion\\presentacion.csproj|C:\\TP4\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\presentacion\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFF490D3-2FCC-4855-8844-6C80ED9DAFF3}|presentacion\\presentacion.csproj|solutionrelative:presentacion\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CFF490D3-2FCC-4855-8844-6C80ED9DAFF3}|presentacion\\presentacion.csproj|c:\\users\\marin\\documents\\utn\\pr3\\github\\tp-webforms-equipo-10b\\webformsequipo10b\\presentacion\\listadodearticulos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CFF490D3-2FCC-4855-8844-6C80ED9DAFF3}|presentacion\\presentacion.csproj|solutionrelative:presentacion\\listadodearticulos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,180 +18,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PromoNegocio.cs",
-              "DocumentMoniker": "C:\\TP4\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\Negocio\\PromoNegocio.cs",
-              "RelativeDocumentMoniker": "Negocio\\PromoNegocio.cs",
-              "ToolTip": "C:\\TP4\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\Negocio\\PromoNegocio.cs",
-              "RelativeToolTip": "Negocio\\PromoNegocio.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
+              "Title": "ListadoDeArticulos.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\marin\\Documents\\utn\\PR3\\Github\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\presentacion\\ListadoDeArticulos.aspx.cs",
+              "RelativeDocumentMoniker": "presentacion\\ListadoDeArticulos.aspx.cs",
+              "ToolTip": "C:\\Users\\marin\\Documents\\utn\\PR3\\Github\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\presentacion\\ListadoDeArticulos.aspx.cs*",
+              "RelativeToolTip": "presentacion\\ListadoDeArticulos.aspx.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T02:40:09.771Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ClienteNegocio.cs",
-              "DocumentMoniker": "C:\\TP4\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\Negocio\\ClienteNegocio.cs",
-              "RelativeDocumentMoniker": "Negocio\\ClienteNegocio.cs",
-              "ToolTip": "C:\\TP4\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\Negocio\\ClienteNegocio.cs",
-              "RelativeToolTip": "Negocio\\ClienteNegocio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T02:35:56.656Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ArticuloNegocio.cs",
-              "DocumentMoniker": "C:\\TP4\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\Negocio\\ArticuloNegocio.cs",
-              "RelativeDocumentMoniker": "Negocio\\ArticuloNegocio.cs",
-              "ToolTip": "C:\\TP4\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\Negocio\\ArticuloNegocio.cs",
-              "RelativeToolTip": "Negocio\\ArticuloNegocio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T02:28:40.404Z",
+              "WhenOpened": "2025-10-06T02:57:33.492Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "VoucherNegocio.cs",
-              "DocumentMoniker": "C:\\TP4\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\Negocio\\VoucherNegocio.cs",
-              "RelativeDocumentMoniker": "Negocio\\VoucherNegocio.cs",
-              "ToolTip": "C:\\TP4\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\Negocio\\VoucherNegocio.cs",
-              "RelativeToolTip": "Negocio\\VoucherNegocio.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAkwC4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T02:28:15.337Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ClienteDatos.cs",
-              "DocumentMoniker": "C:\\TP4\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\AccesoDatos\\ClienteDatos.cs",
-              "RelativeDocumentMoniker": "AccesoDatos\\ClienteDatos.cs",
-              "ToolTip": "C:\\TP4\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\AccesoDatos\\ClienteDatos.cs",
-              "RelativeToolTip": "AccesoDatos\\ClienteDatos.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAD8AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T23:49:27.878Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "VoucherDatos.cs",
-              "DocumentMoniker": "C:\\TP4\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\AccesoDatos\\VoucherDatos.cs",
-              "RelativeDocumentMoniker": "AccesoDatos\\VoucherDatos.cs",
-              "ToolTip": "C:\\TP4\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\AccesoDatos\\VoucherDatos.cs",
-              "RelativeToolTip": "AccesoDatos\\VoucherDatos.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAAAFAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T23:41:28.604Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ArticuloDatos.cs",
-              "DocumentMoniker": "C:\\TP4\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\AccesoDatos\\ArticuloDatos.cs",
-              "RelativeDocumentMoniker": "AccesoDatos\\ArticuloDatos.cs",
-              "ToolTip": "C:\\TP4\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\AccesoDatos\\ArticuloDatos.cs",
-              "RelativeToolTip": "AccesoDatos\\ArticuloDatos.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAADAAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T23:40:47.888Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AccesoDato.cs",
-              "DocumentMoniker": "C:\\TP4\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\AccesoDatos\\AccesoDato.cs",
-              "RelativeDocumentMoniker": "AccesoDatos\\AccesoDato.cs",
-              "ToolTip": "C:\\TP4\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\AccesoDatos\\AccesoDato.cs",
-              "RelativeToolTip": "AccesoDatos\\AccesoDato.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAswFcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T00:03:00.676Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Script.js",
-              "DocumentMoniker": "C:\\TP4\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\presentacion\\Script\\Script.js",
-              "RelativeDocumentMoniker": "presentacion\\Script\\Script.js",
-              "ToolTip": "C:\\TP4\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\presentacion\\Script\\Script.js",
-              "RelativeToolTip": "presentacion\\Script\\Script.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-10-05T21:22:43.238Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Formulario.aspx.cs",
-              "DocumentMoniker": "C:\\TP4\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\presentacion\\Formulario.aspx.cs",
-              "RelativeDocumentMoniker": "presentacion\\Formulario.aspx.cs",
-              "ToolTip": "C:\\TP4\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\presentacion\\Formulario.aspx.cs",
-              "RelativeToolTip": "presentacion\\Formulario.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T19:50:50.774Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Formulario.aspx",
-              "DocumentMoniker": "C:\\TP4\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\presentacion\\Formulario.aspx",
-              "RelativeDocumentMoniker": "presentacion\\Formulario.aspx",
-              "ToolTip": "C:\\TP4\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\presentacion\\Formulario.aspx",
-              "RelativeToolTip": "presentacion\\Formulario.aspx",
+              "Title": "ListadoDeArticulos.aspx",
+              "DocumentMoniker": "C:\\Users\\marin\\Documents\\utn\\PR3\\Github\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\presentacion\\ListadoDeArticulos.aspx",
+              "RelativeDocumentMoniker": "presentacion\\ListadoDeArticulos.aspx",
+              "ToolTip": "C:\\Users\\marin\\Documents\\utn\\PR3\\Github\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\presentacion\\ListadoDeArticulos.aspx",
+              "RelativeToolTip": "presentacion\\ListadoDeArticulos.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-10-05T19:46:29.039Z",
+              "WhenOpened": "2025-10-06T02:55:48.605Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "MiMaster.Master.cs",
-              "DocumentMoniker": "C:\\TP4\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\presentacion\\MiMaster.Master.cs",
-              "RelativeDocumentMoniker": "presentacion\\MiMaster.Master.cs",
-              "ToolTip": "C:\\TP4\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\presentacion\\MiMaster.Master.cs",
-              "RelativeToolTip": "presentacion\\MiMaster.Master.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T00:13:13.833Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Default.aspx.cs",
-              "DocumentMoniker": "C:\\TP4\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\presentacion\\Default.aspx.cs",
-              "RelativeDocumentMoniker": "presentacion\\Default.aspx.cs",
-              "ToolTip": "C:\\TP4\\tp-webforms-equipo-10B\\WebFormsEquipo10B\\presentacion\\Default.aspx.cs",
-              "RelativeToolTip": "presentacion\\Default.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T00:12:02.024Z"
             }
           ]
         }
